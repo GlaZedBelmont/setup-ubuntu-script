@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Install git
-sudo apt install git
-
 # Setup audio
 cd ~ 
 git clone https://github.com/devendor/c302ca
